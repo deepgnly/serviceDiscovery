@@ -7,6 +7,7 @@ Phase 1: Only Queries now , no insertion
 1. Idenity tables which has no columns that of foreign key
 2. Create a API for the same
 
+Phase 2: Only Queries with multiple relationships
 3. Identify Tables which have foreign key
 4. Create API with Joins
 
